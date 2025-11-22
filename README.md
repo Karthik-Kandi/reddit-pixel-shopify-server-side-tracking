@@ -40,7 +40,7 @@ This server-side implementation captures conversions that browser-based tracking
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/reddit-pixel-shopify-server-side-tracking.git
+git clone https://github.com/91369673/reddit-pixel-shopify-server-side-tracking.git
 cd reddit-pixel-shopify-server-side-tracking
 
 # Copy environment template
@@ -309,7 +309,7 @@ Contributions welcome! Please:
 
 ## Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/reddit-pixel-shopify-server-side-tracking/issues)
+- **Issues:** [GitHub Issues](https://github.com/91369673/reddit-pixel-shopify-server-side-tracking/issues)
 - **Documentation:** [Full setup guide](https://www.tva.sg/reddit-pixel-shopify-tracking)
 - **Reddit API Docs:** [Reddit Conversions API](https://reddithelp.com/hc/en-us/articles/4410892225940-Reddit-Conversions-API)
 
