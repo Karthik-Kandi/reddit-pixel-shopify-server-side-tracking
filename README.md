@@ -310,7 +310,7 @@ Contributions welcome! Please:
 ## Support
 
 - **Issues:** [GitHub Issues](https://github.com/91369673/reddit-pixel-shopify-server-side-tracking/issues)
-- **Documentation:** [Full setup guide](https://www.tva.sg/reddit-pixel-shopify-tracking)
+- **Documentation:** [Full setup guide](https://www.tva.sg/reddit-pixel-tracking-for-shopify-server-side-implementation-with-conversions-api/)
 - **Reddit API Docs:** [Reddit Conversions API](https://reddithelp.com/hc/en-us/articles/4410892225940-Reddit-Conversions-API)
 
 ## Acknowledgments
